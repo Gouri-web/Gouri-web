@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![WhatsApp Image 2026-02-20 at 9 35 21 PM](https://github.com/user-attachments/assets/ee1f445b-2952-4bf4-a200-ed0768d4ce52)
+<img src = "https://github.com/user-attachments/assets/ee1f445b-2952-4bf4-a200-ed0768d4ce52" width = 200px height = 600px>
 <!--
 **Gouri-web/Gouri-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
